@@ -47,7 +47,7 @@ public class TwoSum {
         int[] array = new int[] {2,7,11,15,2};
         int target=4;
         int[] ar = calculate(array, target);
-		System.out.println(ar[0] +" "+ ar[1]);
+		System.out.println(ar[0] + " " + ar[1]);
           }
 	}
 
